@@ -2,7 +2,7 @@
 <h1> Xin chào bạn trước màn hình 🍑 <img src="https://i.imgur.com/b7BPW9e.png" width="37"></h1> 
 
 <p align="center">
-    <img align="center" alt="PNG" src="https://i.imgur.com/b7BPW9e.png" />
+    <img align="center" alt="PNG" src="" />
 </p>
 <h1>CHỈ ÁP DỤNG VỚI HOST</h1>
 
